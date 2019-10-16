@@ -84,7 +84,7 @@ import { MyUIComponent } from 'ui-pkg';
 
 - [css-modules](https://glenmaddern.com/articles/css-modules)
 
-
+- [React/Redux main concepts collection](https://rangle.github.io/react-training/)
 
 ### Advanced
 
